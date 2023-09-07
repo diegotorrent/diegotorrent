@@ -3,9 +3,11 @@
 
 ### 🌱 I’m currently  learning 
 
-&emsp;&emsp;&emsp;&emsp;[Vue3 <img src="hero-3d.svg" width=20 height=20>](https://github.com/diegotorrent/vue3-example01-alura-tracker)
+&emsp;&emsp;&emsp;&emsp;[<img src="hero-3d.svg" width=20 height=20> Vue3](https://github.com/diegotorrent/vue3-example01-alura-tracker)
 
-&emsp;&emsp;&emsp;&emsp;[Python <img src="python-logo-only.png" width=25 height=25> for Cyber Security](https://github.com/stars/diegotorrent/lists/more-info)
+&emsp;&emsp;&emsp;&emsp;[<img src="python-logo-only.png" width=25 height=25> Python for Cyber Security](https://github.com/stars/diegotorrent/lists/more-info)
+
+&emsp;&emsp;&emsp;&emsp;[<img src="aws.png" width=50 height=25> Cloud Services](https://bit.ly/DFTCloudPractitioner?r=lp)
 
 ### 🔭 I’m currently working on 
 
