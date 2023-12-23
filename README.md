@@ -20,3 +20,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ____
+
+| <a href="https://github.com/diegotorrent"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api?username=diegotorrent&show_icons=true&theme=github_dark&hide_border=true" alt="diegotorrent's github stats" /></a> | <a href="https://github.com/diegotorrent"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/top-langs/?username=diegotorrent&layout=compact&theme=github_dark&hide_border=true&hide=TeX" /></a> |
+| ------------- | ------------- |
+
+## Top Repositories
+
+| <a href="https://github.com/diegotorrent/"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=diegotorrent&repo=diegotorrent&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/diegotorrent/"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=diegotorrent&repo=diegotorrent&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+| <a href="https://github.com/diegotorrent/Android-LD-Preload-Injector"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=diegotorrent&repo=diegotorrent&theme=github_dark&hide_border=true" /></a> | <a href="https://github.com/diegotorrent/"><img align="center" src="https://github-readme-stats-rho-lilac-21.vercel.app/api/pin/?username=diegotorrent&repo=diegotorrent&theme=github_dark&hide_border=true" /></a> |
+| ------------- | ------------- |
